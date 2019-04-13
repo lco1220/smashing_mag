@@ -67,6 +67,10 @@ ul {
   grid-template-rows: 786px 786px;
 }
 
+#first {
+  width: 100%;
+}
+
 #f-box {
   position: absolute;
   top: 200px;

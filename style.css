@@ -63,8 +63,9 @@ ul {
 
 .box-container {
   display: grid;
-  grid-template-columns: 673px 673px;
+  grid-template-columns: 1fr 1fr;
   grid-template-rows: 786px 786px;
+  width: 100%;
 }
 
 #first {
